@@ -1,0 +1,9 @@
+>> dotnet watch run
+
+>> dotnet ef migrations add InitialCreate -p .\Persistence\ -s .\API\
+
+>> dotnet ef database -h
+
+>> dotnet new -l
+
+>> dotnet new gitignore
